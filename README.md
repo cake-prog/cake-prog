@@ -21,10 +21,16 @@
 1) Открыт сайт https://practicesoftwaretesting.com/
 2) Пользователь находится на странице каталога товаров.
 
+<html>
+<img src = "https://github.com/cake-prog/cake-prog/blob/main/assets/function_under_test.png" width="300" height="350">
+<p>         
 
-![Function_under_test](https://github.com/cake-prog/cake-prog/blob/main/assets/function_under_test.png)
+</p>
+<span size="30">Documentation:</span>
+<p>         
 
-Documentation:
+</p>
+</html>
 
 [Check-list](https://github.com/cake-prog/cake-prog_check-list)
 
