@@ -13,6 +13,10 @@
 
 ## Testing Documentation
 
+Тестируемая функция:
+![Function_under_test](https://github.com/cake-prog/cake-prog/blob/main/assets/function_under_test.png)
+
+
 ## Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ladadubrova#)
 
