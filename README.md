@@ -14,7 +14,24 @@
 ## Testing Documentation
 
 Тестируемая функция:
+
+Проверка функции сортировки (Sort)
+
+Предусловия: 
+1) Открыт сайт https://practicesoftwaretesting.com/
+2) Пользователь находится на странице каталога товаров.
+
+
 ![Function_under_test](https://github.com/cake-prog/cake-prog/blob/main/assets/function_under_test.png)
+
+Documentation:
+
+[Check-list](https://github.com/cake-prog/cake-prog_check-list)
+
+[Test-case](https://github.com/cake-prog/cake-prog_test-case)
+
+[Bug-reports](https://github.com/cake-prog/cake-prog_-bud-reports)
+
 
 
 ## Follow me 
