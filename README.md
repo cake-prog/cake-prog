@@ -6,7 +6,7 @@
 ## Languages and Tools
 
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
-![Postman](https://img.shields.io/badge/-Postma-090909?style=for-the-badge&logo=Postman)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
@@ -26,7 +26,7 @@
 <p>         
 
 </p>
-<span size="30">Documentation:</span>
+<span>Documentation:</span>
 <p>         
 
 </p>
@@ -38,8 +38,10 @@
 
 [Bug-reports](https://github.com/cake-prog/cake-prog_-bud-reports)
 
+[Postman collection API](https://github.com/cake-prog/postman_collection.git)
+
 
 
 ## Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ladadubrova#)
-
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ladadubrova25@gmail.com)
